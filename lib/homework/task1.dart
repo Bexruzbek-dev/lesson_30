@@ -96,7 +96,7 @@ class Car extends StatelessWidget {
                     ),
                   ],
                 ),
-                20.height(),
+                20.height(), 
                 Center(
                   child: Container(
                     height: 262,
